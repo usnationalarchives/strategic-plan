@@ -1,0 +1,124 @@
+---
+---
+
+@import "bourbon/bourbon";
+@import "neat/neat";
+
+div.custom_code {
+  border: 1px solid black;
+
+  h4 {margin-top: 0; padding: 0;}
+
+  h4 span {
+    background-color: #779;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    padding: 5px;
+  }
+
+  ul {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+a, a:active, a:visited{
+  color: #112e51;
+}
+.container header{
+  background-color:white;
+  border-bottom:solid 5px #153e56;
+  color:#112e51;
+  padding: 0 0;
+  height: auto;
+  padding-bottom:5px;
+  
+  width:100%;
+  
+}
+
+aside .sidebar-nav a, aside .sidebar-nav a:link, aside .sidebar-nav a:visited{
+  color:#112e51;
+}
+/*
+.header_menu a, .header_menu a:visited, .header_menu a:active{
+  color:#205493;
+}
+*/
+.container header h1{
+  margin-left:4.3em;
+  margin-bottom:1em;
+  
+}
+.container header h1 a, header h1 a:active, header h1 a:visited{
+  color: #112e51;
+  font-size:.8em;
+  
+}
+header .content{
+  overflow:auto;
+  background-image: url(../images/nara-logo.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 5px center;
+  padding: 0 0;
+  margin: 0 0;
+  margin-top:5px;
+}
+
+.container header .header_menu{
+  float:right;
+  padding-right:5px;
+  
+}
+
+footer{
+  clear:both;
+  border-top:solid 5px #153e56;
+  text-align:center;
+}
+
+footer li{
+  display:inline;
+}
+footer li:before{
+  content: "● ";
+}
+
+footer li:first-child:before{
+  content: '';
+}
+@media only screen and (max-width: 599px) {
+  .container header h1{
+    margin-left:4.2em;
+    margin-bottom:1em;
+
+  }
+  
+  .container header h1{
+    margin-left:3.5em;
+  }
+  
+  .container header .header_menu{
+    font-size:.8em;
+    
+  }
+  
+}
+
+@media only print {
+  .container header h1{
+    margin-left:0px;
+    margin-bottom:0px;
+  }
+  aside{
+    display:none;
+  }
+  article.main-content{
+    width:100%;
+  }
+  
+}
+
