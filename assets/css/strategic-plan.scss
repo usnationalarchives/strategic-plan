@@ -34,10 +34,12 @@ a, a:active, a:visited{
   padding: 0 0;
   height: auto;
   padding-bottom:5px;
-  
   width:100%;
+  position:relative;
+  
   
 }
+
 
 aside .sidebar-nav a, aside .sidebar-nav a:link, aside .sidebar-nav a:visited{
   color:#112e51;
@@ -62,10 +64,10 @@ header .content{
   background-image: url(../images/nara-logo.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: 5px center;
   padding: 0 0;
   margin: 0 0;
   margin-top:5px;
+  
 }
 
 .container header .header_menu{
@@ -104,6 +106,10 @@ footer li:first-child:before{
   .container header .header_menu{
     font-size:.8em;
     
+  }
+  
+  aside{
+    margin-top:0px;
   }
   
 }
