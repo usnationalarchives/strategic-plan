@@ -44,6 +44,12 @@ a, a:active, a:visited{
 aside .sidebar-nav a, aside .sidebar-nav a:link, aside .sidebar-nav a:visited{
   color:#112e51;
 }
+aside, article{
+  margin-top:0px;
+}
+
+
+  
 /*
 .header_menu a, .header_menu a:visited, .header_menu a:active{
   color:#205493;
@@ -108,9 +114,7 @@ footer li:first-child:before{
     
   }
   
-  aside{
-    margin-top:0px;
-  }
+  
   
 }
 
