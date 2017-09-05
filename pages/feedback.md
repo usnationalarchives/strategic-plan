@@ -7,8 +7,4 @@ description: "Instructions for Feedback"
 
 ## Instructions for Feedback
 
-We welcome your comments and questions. You may provide feedback in two ways:
-
-1. Comments are welcome via GitHub "issues." Each issue is a conversation initiated by a member of the public. Select the "<a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/">Discuss</a>" link to view and comment on existing discussions or open a new issue. You will need to create a GitHub account to submit.
-
-2. We are also accepting content suggestions or proposed revisions through emails sent to <a href='mailto:strategy@nara.gov'>strategy@nara.gov</a>.
+Thank you for your interest in the National Archives' FY 2018 - FY 2022 Draft Strategic Plan.  We are no longer accepting comments on the draft.  This allows time for our review of the feedback received by September 1st.  Following our submission of the draft plan to the Office of Management and Budget on Sept 11, 2017, we will provide an updated draft in the Fall. 
