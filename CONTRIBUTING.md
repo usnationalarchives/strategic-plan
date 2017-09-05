@@ -6,4 +6,4 @@
 
 ## Via email
 
-*  If you prefer not to set up a GitHub account, we also welcome your suggestions at [strategy@nara.gov](mailto:strategy@nara.gov). The US National Archives monitors this address and will add suggestions to this repo’s issues page.
+*  If you prefer not to set up a GitHub account, we also welcome your suggestions at [strategy@nara.gov](mailto:strategy@nara.gov). The US National Archives monitors this address.
