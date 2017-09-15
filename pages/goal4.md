@@ -4,6 +4,11 @@ title: Strategic Plan | Strategic Goal 4.	Build Our Future Through Our People
 permalink: /goal4/
 description: "Strategic Goal 4.	Build Our Future Through Our People"
 ---
+<p style='text-align:right;'>
+  DRAFT FY 2018 - FY 2022 Strategic Plan
+  <br>
+  September 11, 2017
+</p>
 
 ## Strategic Goal 4.	Build Our Future Through Our People
 

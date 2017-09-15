@@ -5,6 +5,12 @@ permalink: /organization/
 description: "NARA Organization"
 ---
 
+<p style='text-align:right;'>
+  DRAFT FY 2018 - FY 2022 Strategic Plan
+  <br>
+  September 11, 2017
+</p>
+
 ## NARA Organization
 NARA is organized around customer segments, which ensures that resources and management attention are focused on delivering coordinated and effective service to all stakeholders. NARA’s customer-focused organizations allow the agency to better engage its stakeholders, encourage their collaboration and participation, and respond to their needs expediently and efficiently. This structure eliminates duplication of processes and resources, creates a more flexible and agile organization, and promotes shared accountability for the performance of the agency as a whole. 
 

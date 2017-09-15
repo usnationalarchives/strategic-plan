@@ -4,6 +4,11 @@ title: Strategic Plan | Strategic Goal 1.	Make Access Happen
 permalink: /goal1/
 description: "Strategic Goal 1.	Make Access Happen"
 ---
+<p style='text-align:right;'>
+  DRAFT FY 2018 - FY 2022 Strategic Plan
+  <br>
+  September 11, 2017
+</p>
 
 ## Strategic Goal 1.	Make Access Happen
 

@@ -4,6 +4,11 @@ title: Strategic Plan | National Archives and Records Administration
 permalink: /orgchart/
 description: "Organization Chart"
 ---
+<p style='text-align:right;'>
+  DRAFT FY 2018 - FY 2022 Strategic Plan
+  <br>
+  September 11, 2017
+</p>
 
 ## National Archives and Records Administration
 

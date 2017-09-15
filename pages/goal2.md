@@ -5,6 +5,12 @@ permalink: /goal2/
 description: "Strategic Goal 2.	Connect with Customers"
 ---
 
+<p style='text-align:right;'>
+  DRAFT FY 2018 - FY 2022 Strategic Plan
+  <br>
+  September 11, 2017
+</p>
+
 ## Strategic Goal 2. Connect with Customers
 
 *Connect with Customers* challenges us to continuously improve customer service, cultivate public participation, and generate new understanding of the importance of records in a democracy. We continuously engage with and learn from our customers: individuals, organizations, and other Federal agencies. We build long-term and strategic customer relationships to ensure our services are valued by our customers and we work together to improve overall efficiency and effectiveness. 

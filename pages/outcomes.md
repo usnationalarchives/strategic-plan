@@ -4,6 +4,11 @@ title: Strategic Plan | Transformational Outcomes
 permalink: /outcomes/
 description: "Transformational Outcomes"
 ---
+<p style='text-align:right;'>
+  DRAFT FY 2018 - FY 2022 Strategic Plan
+  <br>
+  September 11, 2017
+</p>
 
 ## Transformational Outcomes
 

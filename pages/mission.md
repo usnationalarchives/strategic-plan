@@ -4,6 +4,11 @@ title: Strategic Plan | NARA Mission, Vision, and Values
 permalink: /mission/
 description: 
 ---
+<p style='text-align:right;'>
+  DRAFT FY 2018 - FY 2022 Strategic Plan
+  <br>
+  September 11, 2017
+</p>
 
 ## NARA Mission, Vision, and Values
 

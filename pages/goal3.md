@@ -5,6 +5,12 @@ permalink: /goal3/
 description: "Strategic Goal 3.	Maximize NARA's Value to the Nation"
 ---
 
+<p style='text-align:right;'>
+  DRAFT FY 2018 - FY 2022 Strategic Plan
+  <br>
+  September 11, 2017
+</p>
+
 ## Strategic Goal 3.	Maximize NARA's Value to the Nation
 
 *Maximize NARA’s Value to the Nation* recognizes that public access to government information creates measurable economic value, which adds to the enduring cultural and historical value of our records. We are reforming and modernizing records management policies and practices across the Federal government to support the transition to digital government. NARA will drive public and commercial re-use of historical government data and records to create measurable economic activity.
