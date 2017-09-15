@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Strategic Plan | Instructions for Feedback
+title: Strategic Plan | Send for Feedback
 permalink: /feedback/
-description: "Instructions for Feedback"
+description: "Send Feedback"
 ---
 
-## Instructions for Feedback
+## Send Feedback
 
-Thank you for your interest in the National Archives' FY 2018 - FY 2022 Draft Strategic Plan.  We are no longer accepting comments on the draft.  This allows time for our review of the feedback received by September 1st.  Following our submission of the draft plan to the Office of Management and Budget on Sept 11, 2017, we will provide an updated draft in the Fall. 
+The comment period on the National Archives’ FY 2018 - FY 2022 Draft Strategic Plan is closed. This version of the plan incorporates comments we received from staff and a wide range of stakeholders, including other agencies, professional organizations, and individual researchers. The revised plan was submitted to the Office of Management and Budget (OMB) for their review on September 11, 2017. If you would like to share feedback, please email <a href='mailto:strategy@nara.gov'>strategy@nara.gov</a>.

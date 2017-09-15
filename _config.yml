@@ -40,11 +40,17 @@ navigation:
   url: /mission/
 - text: Transformational Outcomes
   url: /outcomes/
-- text: NARA Strategic Goals and Objectives
-  url: /goals/
+- text: Goal 1.	Make Access Happen
+  url: /goal1/
+- text: Goal 2.	Connect with Customers
+  url: /goal2/
+- text: Goal 3.	Maximize NARA's Value to the Nation
+  url: /goal3/
+- text: Goal 4.	Build Our Future Through Our People
+  url: /goal4/
 - text: NARA Organization
   url: /organization/
-- text: Instructions for Feedback
+- text: Send Feedback
   url: /feedback/
 
 # sass

@@ -19,6 +19,6 @@ NARA’s Transformation is guided by six “transformational outcomes” that de
 
 **A Great Place to Work** — We will transform NARA into a great place to work through trust and empowerment of all of our people, the agency’s most vital resource.
 
-**A Customer-Focused Organization** — We will create structures and processes to allow our staff to more effectively meet the needs of our customers.
+**A Customer-Focused Organization** — We will create structures and processes to allow our staff to more effectively meet the needs of our customers. 
 
 **An Open NARA** — We will open our organizational boundaries to learn from others.
