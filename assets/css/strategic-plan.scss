@@ -132,3 +132,42 @@ footer li:first-child:before{
   
 }
 
+
+.usa-alert {
+    margin-top:20px;
+    /*background-color: #f1f1f1;*/
+    background-position: 2rem 2rem;
+    background-repeat: no-repeat;
+    background-size: 5.2rem;
+    padding-bottom: 1.4rem;
+    padding-left: 3rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+    position: relative;
+}
+
+.usa-alert-info {
+    background-color: #e1f3f8;    
+    background-image: url(../images/info.svg);
+}
+
+
+
+.usa-alert::before {
+    background-color: #02bfe7;
+    content: '';
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1rem;
+}
+
+.usa-alert-body {
+    display: table-cell;
+    padding-left: 5rem;
+    vertical-align: top;
+}
+
+
+
