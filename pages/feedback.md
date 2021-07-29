@@ -7,7 +7,7 @@ description: "Send Feedback"
 
 ## Revised Draft FY 2022 - FY 2026 Strategic Plan
 
-We welcome your comments and questions. You may provide feedback in two ways:
+We welcome your comments and questions. Please submit your comments by **August 20, 2021**. The draft available today is the next step in meeting the requirement to deliver a final plan in February 2022. You may provide feedback in two ways:
 
 ### Send Feedback
 
